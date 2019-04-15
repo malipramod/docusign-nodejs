@@ -1,0 +1,25 @@
+{
+  "name": "docusign-nodejs",
+  "version": "1.0.0",
+  "description": "Docusign API with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malipramod/docusign-nodejs.git"
+  },
+  "author": "Pramod Mali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malipramod/docusign-nodejs/issues"
+  },
+  "homepage": "https://github.com/malipramod/docusign-nodejs#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cors": "^2.8.5",
+    "docusign-esign": "^4.2.2",
+    "express": "^4.16.4"
+  }
+}
