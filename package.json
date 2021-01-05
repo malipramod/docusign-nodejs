@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/malipramod/docusign-nodejs#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "cors": "^2.8.5",
     "docusign-esign": "^4.2.2",
     "express": "^4.16.4"
